@@ -37,7 +37,7 @@ The Hangman program randomly selects a secret word (a fruit name) from a predefi
 ---
 
 ## 🖼 Application Screenshot
-![Application Screenshot]()
+![Application Screenshot](Hangman/screenshot.png)
 
 ---
 
